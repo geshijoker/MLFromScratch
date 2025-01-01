@@ -9,7 +9,7 @@ This project guide practitioners in supervised finetuning (SFT) a large language
 | --- | --- |
 | code base | [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) |
 | library | [huggingface parameter efficient tuning (peft)](https://huggingface.co/docs/peft/en/package_reference/lora)|
-| dataset | ChatDoctor HealthcareMagic dataset](https://huggingface.co/datasets/lavita/ChatDoctor-HealthCareMagic-100k) |
+| dataset | [ChatDoctor HealthcareMagic dataset](https://huggingface.co/datasets/lavita/ChatDoctor-HealthCareMagic-100k) |
 | base model | [Meta-Llama-3-8B](https://huggingface.co/meta-llama/Meta-Llama-3-8B) and [Meta-Llama-3-8B-Instruct](https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct) |
 | Monitor | [WanDB](https://wandb.ai/site/) |
 
