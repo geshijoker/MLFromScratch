@@ -165,4 +165,5 @@ transformers/
 LLM/wandb/
 VLM/wandb/
 VLM/idefics2-8b-dpo-RLHF-V
+.env
 .DS_Store
